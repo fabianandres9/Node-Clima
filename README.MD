@@ -6,6 +6,6 @@ Recuerda instalar este comando
 npm install
 -------------
 
-Ejemplo:
+Ejemplo de uso:
 
 node app -d "Valparaiso Chile"
